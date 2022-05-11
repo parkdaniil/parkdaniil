@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @parkdaniil
-- 👀 I’m interested in QA ios 
-- 🌱 I’m currently learning QA ios 
+- 👀 I’m interested in QA, ios 
+- 🌱 I’m currently learning QA, ios 
 - 💞️ I’m looking to collaborate on - 
 - 📫 How to reach me parkdalex@gmail.com 
 
